@@ -1,4 +1,5 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
+"17906","AT 2017agm","12:15:13.81","+15:08:51.52","","","","","Pan-STARRS1","","Pan-STARRS1","PS17apk","PS1 - GPC1","","1","1","","20.39","w-PS1","2017-01-04 13:53:45","PS1_Bot1",""
 "17907","AT 2017agn","10:08:28.62","-06:29:06.79","","","","","Pan-STARRS1","","Pan-STARRS1","PS17apc","PS1 - GPC1","","1","1","","22.11","w-PS1","2017-01-04 12:36:00","PS1_Bot1",""
 "17908","AT 2017ago","02:23:13.13","+28:47:40.94","","","","","Pan-STARRS1","","Pan-STARRS1","PS17apq","PS1 - GPC1","","1","1","","20.35","i-Sloan","2017-01-13 07:09:07","PS1_Bot1",""
 "17909","AT 2017agp","02:18:01.01","-25:19:35.89","","","","","Pan-STARRS1","","Pan-STARRS1","PS17apd","PS1 - GPC1","","1","1","","20.23","i-Sloan","2017-01-08 05:26:52","PS1_Bot1",""
@@ -998,4 +999,3 @@
 "19238","SN 2017cfo","10:38:12.92","+28:07:02.06","SN","0.042","","","ATLAS, GaiaAlerts","PESSTO","ATLAS; GaiaAlerts","ATLAS17cpj","ATLAS1 - ACAM1, Gaia - Gaia-photometric","ESO-NTT - EFOSC2-NTT","1","1","","17.52","orange-ATLAS","2017-03-17 09:54:43","ATLAS_Bot1",""
 "19239","SN 2017cfp","15:21:11.52","+25:46:41.91","SN Ia","0.03","","","ATLAS, Pan-STARRS1","PESSTO","ATLAS; Pan-STARRS1","ATLAS17cpk","ATLAS1 - ACAM1, PS1 - GPC1","ESO-NTT - EFOSC2-NTT","1","1","","18.79","orange-ATLAS","2017-02-05 15:34:33","ATLAS_Bot1",""
 "19240","SN 2017cfq","08:03:55.22","+26:31:12.60","SN","0.022","IC 0491","0.021648","ASAS-SN, Pan-STARRS1","","ASAS-SN; Pan-STARRS1","ASASSN-17ds","ASASSN-2 - Cassius, ASASSN-1 - Brutus, PS1 - GPC1","LCO-duPont - WFCCD","1","1","","17.2","V-Johnson","2017-03-17 08:45:19","Dong",""
-"19241","AT 2017cfr","00:43:02.02","+41:13:18.66","","","","","GaiaAlerts","","GaiaAlerts","Gaia17arh","Gaia - Gaia-photometric","","1","1","","18.1","G-Gaia","2017-03-12 22:50:52","Gaia_Bot1",""

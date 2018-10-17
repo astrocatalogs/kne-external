@@ -1,4 +1,5 @@
 "ID","Name","RA","DEC","Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
+"16667","AT 2016itn","12:25:14.23","-58:07:13.48","","","","","GaiaAlerts","","GaiaAlerts","Gaia16caj","Gaia - Gaia-photometric","","1","1","","18.69","G-Gaia","2016-12-03 13:45:07","Gaia_Bot1",""
 "16668","SN 2016ito","12:31:09.00","-35:55:49.76","SN Ia","0.02","AM 1228-353 NED02","0.01992","ASAS-SN, GaiaAlerts","","ASAS-SN; GaiaAlerts","ASASSN-16oq","ASASSN-1 - Brutus, ASASSN-2 - Cassius, Gaia - Gaia-photometric","SOAR - Goodman","1","1","","15.4","V-Johnson","2016-12-08 08:38:24","Stanek",""
 "16669","AT 2016itp","13:58:05.97","+28:25:23.63","","","","","GaiaAlerts, Pan-STARRS1","","GaiaAlerts; Pan-STARRS1","Gaia16cak","Gaia - Gaia-photometric, PS1 - GPC1","","1","1","","19.2","G-Gaia","2016-11-14 19:56:38","Gaia_Bot1",""
 "16670","AT 2016itq","14:32:30.30","+65:23:58.13","","","","","GaiaAlerts","","GaiaAlerts","Gaia16cal","Gaia - Gaia-photometric","","1","1","","17.86","G-Gaia","2016-12-04 23:45:36","Gaia_Bot1",""
@@ -998,4 +999,3 @@
 "17903","AT 2017agj","11:45:47.52","-03:48:09.47","","","","","Pan-STARRS1","","Pan-STARRS1","PS17apx","PS1 - GPC1","","1","1","","20.37","w-PS1","2017-02-03 13:37:55","PS1_Bot1",""
 "17904","AT 2017agk","10:10:34.37","+01:17:13.46","","","","","Pan-STARRS1","","Pan-STARRS1","PS17apb","PS1 - GPC1","","1","1","","21.62","w-PS1","2017-01-03 14:44:09","PS1_Bot1",""
 "17905","AT 2017agl","08:22:59.07","+06:24:47.21","","","","","Pan-STARRS1","","Pan-STARRS1","PS17app","PS1 - GPC1","","1","1","","21.47","w-PS1","2017-01-04 10:12:00","PS1_Bot1",""
-"17906","AT 2017agm","12:15:13.81","+15:08:51.52","","","","","Pan-STARRS1","","Pan-STARRS1","PS17apk","PS1 - GPC1","","1","1","","20.39","w-PS1","2017-01-04 13:53:45","PS1_Bot1",""
