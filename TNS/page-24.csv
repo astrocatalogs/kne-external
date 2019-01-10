@@ -1,4 +1,5 @@
 "ID","Name","RA","DEC","Obj. Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
+"28097","SN 2018dye","14:29:14.173","+46:03:03.09","SN Ia","0.077","","","ZTF, ATLAS","ZTF","ATLAS; ZTF","ZTF18abetewu","P48 - ZTF-Cam, ATLAS1 - ACAM1","","1","1","","19.93","g-ZTF","2018-07-07 05:21:07","ZTF_Bot1",""
 "28098","AT 2018dyf","11:03:46.859","+58:54:08.62","","","","","ZTF, ATLAS, GaiaAlerts","","ATLAS; GaiaAlerts; ZTF","ZTF18abgkkri","P48 - ZTF-Cam, ATLAS1 - ACAM1, Gaia - Gaia-photometric","","1","1","","19.89","r-ZTF","2018-07-06 04:22:04","ZTF_Bot1",""
 "28099","SN 2018dyg","14:27:12.793","+16:51:45.61","SN Ia","0.05","","","ZTF, ATLAS","ZTF","ATLAS; ZTF","ZTF18abespgb","P48 - ZTF-Cam, ATLAS1 - ACAM1","","1","1","","19.6","r-ZTF","2018-07-07 04:07:40","ZTF_Bot1",""
 "28100","SN 2018dyh","14:59:12.374","+71:22:32.99","SN II","0.07","","","ZTF, GaiaAlerts, ATLAS","ZTF","ATLAS; GaiaAlerts; ZTF","ZTF18abesqnb","P48 - ZTF-Cam, Gaia - Gaia-photometric, ATLAS1 - ACAM1","","1","1","","19.98","r-ZTF","2018-07-07 04:20:38","ZTF_Bot1",""
@@ -998,4 +999,3 @@
 "29094","AT 2018fkk","23:40:22.987","-11:57:38.24","","","","","Pan-STARRS1","","Pan-STARRS1","PS18bkl","PS1 - GPC1","","1","1","","21.38","w-PS1","2018-08-18 12:27:21","PS1_Bot1",""
 "29095","AT 2018fkl","00:25:23.268","-02:23:25.99","","","","","Pan-STARRS1","","Pan-STARRS1","PS18bkq","PS1 - GPC1","","1","1","","21.19","w-PS1","2018-08-19 13:09:07","PS1_Bot1",""
 "29096","AT 2018fkm","00:34:32.675","+01:52:00.41","","","","","Pan-STARRS1","","Pan-STARRS1","PS18bkr","PS1 - GPC1","","1","1","","22.41","w-PS1","2018-08-18 13:35:02","PS1_Bot1",""
-"29097","AT 2018fkn","16:10:52.226","+30:02:06.80","","","","","Pan-STARRS1","","Pan-STARRS1","PS18bjp","PS1 - GPC1","","1","1","","19.87","w-PS1","2018-08-14 06:14:24","PS1_Bot1",""
