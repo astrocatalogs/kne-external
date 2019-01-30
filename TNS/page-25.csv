@@ -1,4 +1,5 @@
 "ID","Name","RA","DEC","Obj. Type","Redshift","Host Name","Host Redshift","Discovering Group/s","Classifying Group/s","Associated Group/s","Disc. Internal Name","Disc. Instrument/s","Class. Instrument/s","TNS AT","Public","End Prop. Period","Discovery Mag","Discovery Mag Filter","Discovery Date (UT)","Sender","Ext. catalog/s"
+"29029","SN 2018fhx","06:24:38.038","-23:43:58.94","SN Ia","0.023","2MASX J06243821-2343546","0.023266","ASAS-SN, ATLAS, GaiaAlerts","ePESSTO","ASAS-SN; ATLAS; GaiaAlerts","ASASSN-18tc","ASASSN-2 - Cassius, ASASSN-3 - Paczynski, ATLAS1 - ACAM1, Gaia - Gaia-photometric","ESO-NTT - EFOSC2-NTT","1","1","","17","g-Sloan","2018-08-21 09:07:12","Stanek",""
 "29030","AT 2018fhy","00:43:10.534","+41:16:56.71","","","M31","-0.001","GSNST","","GSNST","GSNST 2018-ac","Other - Other","","1","1","","17.89","V-Johnson","2018-08-21 03:34:33","Kendurkar",""
 "29031","AT 2018fhz","00:20:27.138","+06:03:00.92","","","","","ATLAS","","ATLAS","ATLAS18uab","ATLAS1 - ACAM1","","1","1","","18.778","cyan-ATLAS","2018-08-12 14:41:16","ATLAS_Bot1",""
 "29032","AT 2018fia","18:04:03.810","-15:24:53.42","","","","","GaiaAlerts","","GaiaAlerts","Gaia18chm","Gaia - Gaia-photometric","","1","1","","18.98","G-Gaia","2018-08-17 09:17:16","Gaia_Bot1",""
@@ -998,4 +999,3 @@
 "30026","AT 2018guf","20:49:11.737","+29:34:42.33","","","","","ZTF","","ZTF","ZTF18abxyutn","P48 - ZTF-Cam","","1","1","","17.79","g-ZTF","2018-09-21 05:38:24","ZTF_Bot1",""
 "30027","AT 2018gug","19:16:10.597","+29:29:54.39","","","","","ZTF","","ZTF","ZTF18abxxviy","P48 - ZTF-Cam","","1","1","","19.54","r-ZTF","2018-09-21 03:02:52","ZTF_Bot1",""
 "30028","SN 2018guh","21:53:36.950","+07:14:06.30","SN Ia","0.12","","","ZTF, ATLAS","ZTF","ATLAS; ZTF","ZTF18abvbpku","P48 - ZTF-Cam, ATLAS1 - ACAM1","P60 - SEDM","1","1","","20.55","g-ZTF","2018-09-08 07:03:21","ZTF_Bot1",""
-"30029","SN 2018gui","19:40:06.780","+66:53:05.27","SN Ia","0.025","","","ZTF, ATLAS, GaiaAlerts","ASAS-SN, ZTF","ATLAS; GaiaAlerts; ZTF","ZTF18abywcnl","P48 - ZTF-Cam, ATLAS1 - ACAM1, Gaia - Gaia-photometric","LT - SPRAT, P60 - SEDM","1","1","","19","r-ZTF","2018-09-24 04:48:00","ZTF_Bot1",""
